@@ -1,4 +1,4 @@
-import AdventCalendar from '@/components/AdventCalendar'
+import AdventCalendar from '../src/components/AdventCalendar'
 
 export default function Home() {
     return (
